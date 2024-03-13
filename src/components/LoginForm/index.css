@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+   width: 500px;
+  height: 500px;
+  flex-direction: column;
+  justify-content: space-around;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+  align-items: center;
+  box-shadow: 3px 2px 3px 4px black;
+}
+form {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  width: 400px;
+}
+input {
+  margin: 10px;
+}
+.btn {
+  color: black;
+  height: 40px;
+  background-color: aqua;
+}

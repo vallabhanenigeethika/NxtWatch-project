@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+.txt {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.Lower {
+  display: flex;
+}
+.clogo {
+  width: 70px;
+  height: 70px;
+}
+.thumbnail {
+  width: 300px;
+  height: 200px;
+}
